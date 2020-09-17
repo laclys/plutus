@@ -1,0 +1,1 @@
+export const LIST_DATA: string = 'list/LIST_DATA'
